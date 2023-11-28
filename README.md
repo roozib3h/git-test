@@ -12,7 +12,7 @@ Inline `Code`
 {
     "firstname": "Roozbeh",
     "lastname": "Tavakoli",
-    "email": "roozbehtavakoli55@gmail.com
+    "email": "roozbehtavakoli55@gmail.com"
 }
 ```
 
@@ -54,3 +54,21 @@ Unorder List:
 ## Photo For Projects
 
 ![Test-Photo](https://octodex.github.com/images/dojocat.jpg)
+
+---
+
+# Test Badge For Readme
+
+![Test NPM Download](https://img.shields.io/npm/dw/cors)
+![Test NPM Download](https://img.shields.io/npm/dw/express)
+
+---
+
+# Test Badge For Pro
+
+![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white
+)
+
+---
+
