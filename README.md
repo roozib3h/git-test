@@ -1,7 +1,56 @@
-# Test GitHub
+# My First Github Project
 
-Test Page built with HTML, CSS and JS.<br/>
-Section About and Contact Form with validation.<br/>
-Built in "Modern Java Script´s" Udemy class project with personal modifications and aditionals secctions.
-<hr/>
-<p>See <a href="https://roozib3h.github.io/git-test/" target="new">DEMO</a>
+<p> This is First Repository For Test Github </p>
+
+---
+
+# Code
+
+Inline `Code`
+
+```json
+{
+    "firstname": "Roozbeh",
+    "lastname": "Tavakoli",
+    "email": "roozbehtavakoli55@gmail.com
+}
+```
+
+---
+
+## Test Color For Text In Readme
+```javascript
+const testColor = (color) => {
+    return color.text
+}
+```
+
+---
+
+## Test List
+
+`order List:`
+
+1. Javascript
+2. Json
+3. Laravel
+
+Unorder List:
+
+- Frontend
+    - ReactJS
+- Backend
+    - AngularJS
+- Fullstack
+
+---
+
+## Project Links
+
+[My Github Page](https://github.com/roozib3h/)
+
+---
+
+## Photo For Projects
+
+![Test-Photo](https://octodex.github.com/images/dojocat.jpg)
